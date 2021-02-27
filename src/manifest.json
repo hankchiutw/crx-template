@@ -1,0 +1,24 @@
+{
+  "name": "crx-template",
+  "short_name": "crx-template",
+  "version": "0.1.0",
+  "manifest_version": 2,
+  "description": "project description",
+  "homepage_url": "https://github.com/hankchiutw/crx-template",
+  "icons": {
+    "16": "assets/icon16.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*", "http://*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": ["assets/*"]
+}
