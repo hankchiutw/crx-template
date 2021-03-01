@@ -4,6 +4,10 @@
 /** @type {import("snowpack").SnowpackUserConfig } */
 module.exports = {
   mount: {
-    src: '/dist',
+    src: '/',
+  },
+  buildOptions: {
+    out: 'dist',
+    metaUrlPath: 'modules',
   },
 };

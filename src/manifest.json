@@ -11,12 +11,12 @@
     "128": "assets/icon128.png"
   },
   "background": {
-    "scripts": ["background.js"],
+    "page": "background.html",
     "persistent": false
   },
   "content_scripts": [
     {
-      "matches": ["https://*", "http://*"],
+      "matches": ["https://*/*"],
       "js": ["content.js"]
     }
   ],
