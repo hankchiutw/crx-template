@@ -1353,6 +1353,11 @@ cross-spawn@^7.0.0, cross-spawn@^7.0.2:
     shebang-command "^2.0.0"
     which "^2.0.1"
 
+crx-esm@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/crx-esm/-/crx-esm-0.1.2.tgz#4b02cf29ba00c64198af27701ae6c05e08c700a1"
+  integrity sha512-oV/yJquYmzFpFc3rq1EKM7L2ULYMVG8wTFVaerkmHDSo2unZfWKKL7i4dZcDBZrKQ3t+P4l3/Zb+EPML4N6gNQ==
+
 cssom@^0.4.4:
   version "0.4.4"
   resolved "https://registry.yarnpkg.com/cssom/-/cssom-0.4.4.tgz#5a66cf93d2d0b661d80bf6a44fb65f5c2e4e0a10"

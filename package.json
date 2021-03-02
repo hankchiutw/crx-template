@@ -33,6 +33,7 @@
     "typescript": "^4.2.2"
   },
   "dependencies": {
-    "chromex": "^1.2.2"
+    "chromex": "^1.2.2",
+    "crx-esm": "^0.1.2"
   }
 }
