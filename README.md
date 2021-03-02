@@ -1,6 +1,6 @@
 # Welcome to crx-template 👋
-![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
+![Version](https://img.shields.io/github/package-json/v/hankchiutw/crx-template?label=package.json)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hankchiutw/crx-template/blob/main/LICENSE)
 
 > project description
 
