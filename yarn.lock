@@ -2617,9 +2617,9 @@ cross-spawn@^7.0.0, cross-spawn@^7.0.2:
     which "^2.0.1"
 
 crx-esm@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/crx-esm/-/crx-esm-0.1.2.tgz#4b02cf29ba00c64198af27701ae6c05e08c700a1"
-  integrity sha512-oV/yJquYmzFpFc3rq1EKM7L2ULYMVG8wTFVaerkmHDSo2unZfWKKL7i4dZcDBZrKQ3t+P4l3/Zb+EPML4N6gNQ==
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/crx-esm/-/crx-esm-0.1.6.tgz#953657bf1d63df0568e6dee281526704845afca3"
+  integrity sha512-6yanC0bMOtmHpSeXqdogOc798vLY4mSFP6oAajpn9GUS4alNR4tzCWDmtgOFe04FFgUgxSbZ8cTCo1Nl+1e9iA==
 
 crypto-browserify@^3.11.0:
   version "3.12.0"
