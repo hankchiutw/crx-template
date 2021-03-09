@@ -4,10 +4,23 @@
 
 > project description
 
-## Install
+## Usage
+By default, content script would be injected manually. If you want it to be loaded automatically, modify `manifest.json` with:
+```json
+"content_scripts": [
+  {
+    "matches": ["https://*/*"],
+    "js": ["content.js"]
+  }
+],
+```
+
+## Development
 
 ```sh
-yarn install
+yarn start
+yarn build
+yarn bump
 ```
 
 ## Author
