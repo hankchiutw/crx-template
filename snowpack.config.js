@@ -10,4 +10,11 @@ module.exports = {
     out: 'dist',
     metaUrlPath: 'modules',
   },
+  optimize: {
+    entrypoints: ['background.js', 'content.js'],
+    bundle: true,
+    minify: true,
+    target: 'es2020',
+  },
+  // plugins: [['@snowpack/plugin-webpack']],
 };
