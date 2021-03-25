@@ -1,3 +1,8 @@
+#### *DEPRECATED*
+You should use [create-krome-app](https://www.npmjs.com/package/create-krome-app) to start your chrome extension project.
+
+---
+
 # Welcome to crx-template 👋
 ![Version](https://img.shields.io/github/package-json/v/hankchiutw/crx-template?label=package.json)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hankchiutw/crx-template/blob/main/LICENSE)
